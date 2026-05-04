@@ -1,7 +1,7 @@
+import Layout from "./routes/layout/layout";
+
 function App() {
-  return (
-    <div>Hello World</div>
-  )
+  return <Layout />;
 }
 
-export default App
+export default App;
